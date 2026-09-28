@@ -2,7 +2,7 @@
 let humanScore = 0;
 let computerScore = 0;
 
-//create a function and logic that returns a random choice of rock, paper, or scissors
+//create a function and logic that returns a random choice of rock, paper, or scissors for the computer player
 //using Math.random() method returns a random number between 0 and 1, which we can use to select a random choice from an array of choices
 function getComputerChoice() {
     //create an array of choices
